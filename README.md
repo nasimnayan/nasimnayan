@@ -5,7 +5,7 @@ trustworthy, and impactful for low-resource communities.
 
 - 🔭 **Current Role:** Deputy Manager of AI & ML at BRAC
 - 🚀 **Founder:** [OgroPath](https://ogropath.com) (Helping 1k+ students with AI-driven learning)
-- 📚 **Research:** [Google Scholar](YOUR_GOOGLE_SCHOLAR_LINK) | 12 publications | 170+ citations | Explainable AI & LLM Trust
+- 📚 **Research:** [Google Scholar](https://scholar.google.com/citations?user=zAuBXLUAAAAJ&hl=en) | 12 publications | 170+ citations | Explainable AI & LLM Trust
 - 🛠️ **Open Source:** Creator of `M-TRUST` (A one-line API fairness toolkit)
 
 ### 💻 Core Tech Stack
