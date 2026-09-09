@@ -12,5 +12,5 @@ trustworthy, and impactful for low-resource communities.
 `Python` `PyTorch` `LangChain` `pgvector` `Docker` `FastAPI` `RAG` `AutoML`
 
 ### 📨 Connect with Me
-- [LinkedIn]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/nasim-mahmud-nayan-8475211b9/))
+- [LinkedIn]([https://www.linkedin.com/in/nasim-mahmud-nayan-8475211b9/])
 - 📧 smnoyan670@gmail.com
